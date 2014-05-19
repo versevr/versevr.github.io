@@ -69,7 +69,8 @@ section#info video,
   text-align: left;
 }
 #intro {
-  background-color: #e5477f;
+  background-color: #ed3146;
+  //background-color: #e5477f;
   display: table;
   -webkit-box-shadow: inset 0px -10px 40px rgba(0,0,0,0.2);
   box-shadow: inset 0px -10px 40px rgba(0,0,0,0.2);
